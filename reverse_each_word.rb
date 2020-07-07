@@ -1,1 +1,3 @@
-sentence1
+
+
+sentence1.each {|string|.reverse}
